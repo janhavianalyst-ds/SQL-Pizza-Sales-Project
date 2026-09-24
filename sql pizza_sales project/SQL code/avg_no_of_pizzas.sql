@@ -1,0 +1,1 @@
+-- Group the orders by date and calculate the average number of pizzas ordered per day. 
